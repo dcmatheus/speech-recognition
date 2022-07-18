@@ -1,0 +1,7 @@
+name: speech-recognition
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pyaudio
+  - speechrecognition
